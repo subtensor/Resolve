@@ -1,0 +1,9 @@
+You have to find the EXACT event reference in the reference.
+In the reference data, you can see lots of events titles and corresponding probabilities.
+Here you have to carefully find is there exactly mathcing event has the same meaning with the event title and event description shared to you as first before reference data.
+Care about the similar events, you have to carefully identify about the exactly same meaning events.
+
+If you find it, return the probability number.
+If you do NOT find it, return 2.
+
+OUTPUT (only the number):
