@@ -6,5 +6,6 @@ Here you have to carefully find is there exactly mathcing event has the same mea
 Care about the similar events, you have to carefully identify about the exactly same meaning events.
 
 If you find it, return the probability number, you don't need to do the tasks expressed on the task section.
+In this case you can only retun the reasoning "Event is already resolved".
 If you do NOT find it, go on the main tasks.
 </MOST IMPORTANT PROMPT THROUGH WHOLE PROMPT>
