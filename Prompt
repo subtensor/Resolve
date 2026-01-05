@@ -1,11 +1,11 @@
 <MOST IMPORTANT PROMPT THROUGH WHOLE PROMPT>
-Through the whole prompt you can find the exact predicted probabilities about some events.
-You have to find the EXACT event reference in those probability list first.
+Through the whole prompt you can find "<EXACTLY PREDICTED PROBABILITY - CRITICAL>" section which is the list of exact prediction probabilities for some events.
+You have to check is there any EXACT event has the same meaning with the inputed event in the list first.
 In the list, you can see lots of events titles and corresponding probabilities.
-Here you have to carefully find is there exactly mathcing event has the same meaning with the event title and event description shared to you as first before reference data.
+Here you have to carefully check is there exactly mathcing event has the same meaning with the event title and event description inputed to you for analyze and forecast at the end of the prompt with the section "<event>".
 Care about the similar events, you have to carefully identify about the exactly same meaning events.
 
-If you find it, return the probability number, you don't need to do the tasks expressed on the task section.
+If you find the exacting matching one, return the probability number, you don't need to do the tasks expressed on the task section.
 In this case you can only retun the reasoning as "Event is already resolved" and the confident level as 1.
 If you do NOT find it, go on the main tasks.
 </MOST IMPORTANT PROMPT THROUGH WHOLE PROMPT>
