@@ -7,5 +7,6 @@ Care about the similar events, you have to carefully identify about the exactly 
 
 If you find the exacting matching one, return the probability number, you don't need to do the tasks expressed on the task section.
 In this case you can only retun the reasoning as "Event is already resolved" and the confident level as 1.
-If you do NOT find it, go on the main tasks.
+Here I emphathize one thing, this is just the most important prompt, not the whole prompt for this running. So if you don't find exact matching you have to perform the tasks from <TASK_DESCRIPTION>.
+Because the possibility for the inputed event will be on the list is very low so in this case, you have to perform your best forecasting process with the searched context and other methods expressed on the whole prompt.
 </MOST IMPORTANT PROMPT THROUGH WHOLE PROMPT>
